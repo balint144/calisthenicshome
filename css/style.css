@@ -16022,7 +16022,11 @@ a.team-box.style2 h3 {
 /*------------------------------------------------------------------
 21-10. comment box Styles / .comment-box
 -------------------------------------------------------------------*/
-
+.service-txt .fa.fa-caret-right {
+	margin-right: 10px;
+	margin-left: 15px;
+	color: #0078ad;
+}
 .comment-box {
 	overflow: hidden;
 }
