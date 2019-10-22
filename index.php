@@ -114,27 +114,26 @@ include('head.php');
 								</a>
                             </div>
                         </div>
-                        <div class="row padding-bottom-30">
+						<div class="row text-center">
+							<a class="btn btn-dark view-more" href="<?php echo $pageUrl; ?>szolgaltatasok">Tovább</a>
+						</div>
+                        <!-- <div class="row padding-bottom-30">
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Funkcionális edzés</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Gerinctorna</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Kismama torna</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Légzésterápia</span>
 								</a>
@@ -142,25 +141,21 @@ include('head.php');
                         </div>
                         <div class="row padding-bottom-30">
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Meditáció</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Női tréning</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Páros edzés</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Polar pulzuskontrollált edzés</span>
 								</a>
@@ -168,25 +163,21 @@ include('head.php');
                         </div>
                         <div class="row padding-bottom-30">
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Reaxing training</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Relaxáció</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Spartan Fighter</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Stability Workout</span>
 								</a>
@@ -194,24 +185,21 @@ include('head.php');
                         </div>
                         <div class="row padding-bottom-30">
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>Stretching</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>TRX</span>
 								</a>
                             </div>
                             <div class="col-xs-12 col-sm-3">
-				                <!-- client box -->
 								<a href="#" class="client-box large">
 									<span>TRX Rehab</span>
 								</a>
 							</div>
-						</div>
+						</div> -->
 					</div>
                 </section>
                 <section class="container padding-bottom-90 padding-top-60">
