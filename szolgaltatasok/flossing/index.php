@@ -47,7 +47,18 @@ include('../../head.php');
                                             hivatott csökkenteni.</li>
                                         <li>
                                             Mire jó?<br>
-                                            <span><i class="fa fa-caret-right"></i>fájdalomcsillapítás</span>
+                                            <span><i class="fa fa-caret-right"></i>fájdalomcsillapítás</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a mozgásterjedelem (ROM) növelése</span><br>
+                                            <span><i class="fa fa-caret-right"></i>gyulladáscsökkentés</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a koordináció javítása</span><br>
+                                            <span><i class="fa fa-caret-right"></i>ödéma csökkentés</span><br>
+                                            <span><i class="fa fa-caret-right"></i>az izmok, idegek, szalagok és egyéb szövetek csúszásának, csúsztathatóságának javítása</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a vérkeringés serkentése</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a szövetek oxigén és tápanyagellátásának javítása</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a sérülések megakadályozása (prevenció)</span><br>
+                                            <span><i class="fa fa-caret-right"></i>a szöveti gyógyulás felgyorsítása (rehabilitáció)</span><br>
+                                            <span><i class="fa fa-caret-right"></i>sérülések esetén elsősegély</span><br>
+                                            <span><i class="fa fa-caret-right"></i>mozgásminták javítása (sport és mindennapok)</span><br>
                                             
                                         </li>
                                     </ul>
