@@ -24,16 +24,21 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                            	<div class="service-txt">
 									<h2>Calisthenics/Streetworkout</h2>
-									<ul class="list-unstyled list">
-                                        <li>
-                                            A calisthenics avagy a saját testsúlyos edzés megteremti mindenki számára az erős alapokat ahol az egész test egy egységként dolgozik.
-                                        </li>
-                                        <li>
-                                            Az alapgyakorlatok közé tartozik a fekvőtámasz, húzódzkodás, tolódzkodás, guggolás helyes kivitelezése majd a továbbiakban a tonász erőemelek elsajátitása elülső- hátsó függőmérleg (Front lever, Back lever), zászló (Humanflag), Őrszemhúzódzkodás (Muscle up), támszmérlegek (Planche) kivitelezése.
-                                        </li>
-                                    </ul>
+									<div class="col-md-7">
+										<ul class="list-unstyled list">
+											<li>
+												A calisthenics avagy a saját testsúlyos edzés megteremti mindenki számára az erős alapokat ahol az egész test egy egységként dolgozik.
+											</li>
+											<li>
+												Az alapgyakorlatok közé tartozik a fekvőtámasz, húzódzkodás, tolódzkodás, guggolás helyes kivitelezése majd a továbbiakban a tonász erőemelek elsajátitása elülső- hátsó függőmérleg (Front lever, Back lever), zászló (Humanflag), Őrszemhúzódzkodás (Muscle up), támszmérlegek (Planche) kivitelezése.
+											</li>
+										</ul>
+									</div>				
+									<div class="col-md-5">
+										<img src="<?php echo $pageUrl; ?>images/Street_workout_Calistheics_e.jpg" alt="Street_workout_Calistheics_e.jpg" class="img-responsive">
+									</div>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

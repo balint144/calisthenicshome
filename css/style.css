@@ -569,7 +569,6 @@ body {
 	height: auto;
 	max-width: 287px;
 	display: inline-block;
-	vertical-align: bottom;
 }
 
 .history-section .img-box .img2 {
@@ -579,7 +578,6 @@ body {
 	height: auto;
 	max-width: 569px;
 	display: inline-block;
-	vertical-align: bottom;
 }
 
 .history-section .img-box .img3 {
@@ -588,7 +586,6 @@ body {
 	height: auto;
 	max-width: 287px;
 	display: inline-block;
-	vertical-align: bottom;
 }
 
 .history-section .img-center {
@@ -3751,6 +3748,9 @@ a.team-box.style2 h3 {
 }
 .service-txt .list li:after {
 	left:0;
+}
+p.service-txt {
+	margin-top: 40px;
 }
 .btn.btn-dark.view-more:focus, .btn.btn-dark.view-more.focus, .btn.btn-dark.view-more:active:focus, .btn.btn-dark.view-more:active.focus, .btn.btn-dark.view-more.active:focus, .btn.btn-dark.view-more.active.focus {
     outline: thin dotted;
@@ -7517,6 +7517,7 @@ a.team-box.style2 h3 {
 	background: rgba(0, 0, 0, .35);
 	-webkit-transition: all .25s ease;
 	transition: all .25s ease;
+	transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
 	-ms-transform: rotate(-90deg);
 	-o-transform: rotate(-90deg);
@@ -7533,6 +7534,7 @@ a.team-box.style2 h3 {
 }
 
 .collection-over:hover:after {
+	transform: rotate(0deg);
 	-moz-transform: rotate(0deg);
 	-ms-transform: rotate(0deg);
 	-o-transform: rotate(0deg);
@@ -9312,7 +9314,6 @@ a.team-box.style2 h3 {
 	letter-spacing: 4.5px;
 	text-transform: uppercase;
 	display: inline-block;
-	vertical-align: top;
 }
 
 .architecture-gallery p {
@@ -12096,7 +12097,7 @@ a.team-box.style2 h3 {
 .port-single blockquote q:after {
 	top: -10px;
 	left: -16px;
-	content: "\";
+	content: "\\";
 	color: #2a2a2a;
 	font-size: 46px;
 	font-weight: 900;

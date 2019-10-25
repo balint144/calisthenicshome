@@ -46,20 +46,25 @@ include('../../head.php');
                                             sérülését, a különféle gyulladásokat, letapadásokat és fájdalmakat
                                             hivatott csökkenteni.</li>
                                         <li>
-                                            Mire jó?<br>
-                                            <span><i class="fa fa-caret-right"></i>fájdalomcsillapítás</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a mozgásterjedelem (ROM) növelése</span><br>
-                                            <span><i class="fa fa-caret-right"></i>gyulladáscsökkentés</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a koordináció javítása</span><br>
-                                            <span><i class="fa fa-caret-right"></i>ödéma csökkentés</span><br>
-                                            <span><i class="fa fa-caret-right"></i>az izmok, idegek, szalagok és egyéb szövetek csúszásának, csúsztathatóságának javítása</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a vérkeringés serkentése</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a szövetek oxigén és tápanyagellátásának javítása</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a sérülések megakadályozása (prevenció)</span><br>
-                                            <span><i class="fa fa-caret-right"></i>a szöveti gyógyulás felgyorsítása (rehabilitáció)</span><br>
-                                            <span><i class="fa fa-caret-right"></i>sérülések esetén elsősegély</span><br>
-                                            <span><i class="fa fa-caret-right"></i>mozgásminták javítása (sport és mindennapok)</span><br>
-                                            
+                                            <div class="col-md-8 col-lg-9" style="padding-left:0;">
+                                                Mire jó?<br>
+                                                <span><i class="fa fa-caret-right"></i>fájdalomcsillapítás</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a mozgásterjedelem (ROM) növelése</span><br>
+                                                <span><i class="fa fa-caret-right"></i>gyulladáscsökkentés</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a koordináció javítása</span><br>
+                                                <span><i class="fa fa-caret-right"></i>ödéma csökkentés</span><br>
+                                                <span><i class="fa fa-caret-right"></i>az izmok, idegek, szalagok és egyéb szövetek csúszásának,</span><br>
+                                                <span style="padding-left:30px;">csúsztathatóságának javítása</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a vérkeringés serkentése</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a szövetek oxigén és tápanyagellátásának javítása</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a sérülések megakadályozása (prevenció)</span><br>
+                                                <span><i class="fa fa-caret-right"></i>a szöveti gyógyulás felgyorsítása (rehabilitáció)</span><br>
+                                                <span><i class="fa fa-caret-right"></i>sérülések esetén elsősegély</span><br>
+                                                <span><i class="fa fa-caret-right"></i>mozgásminták javítása (sport és mindennapok)</span><br>
+                                            </div>
+                                            <div class="col-md-4 col-lg-3" style="padding-left:0;">
+                                                <img style="margin-top:20px;" src="<?php echo $pageUrl; ?>images/Flossing.jpg" alt="Flossing.jpg" class="img-responsive">
+                                            </div>
                                         </li>
                                     </ul>
                                 </div>

@@ -53,6 +53,9 @@ include('../../head.php');
                                             tehát egyszerűbben fogalmazva: az intimtorna az összes nő számára
                                             határozottan kötelező!&nbsp;</li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img style="width:400px;margin:auto;" src="<?php echo $pageUrl; ?>images/Noi_trening.jpg" alt="Noi_trening.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

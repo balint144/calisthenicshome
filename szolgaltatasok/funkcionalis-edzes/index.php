@@ -33,7 +33,10 @@ include('../../head.php');
                                         <li>Húzó-toló
                                             erő, egyensúly és állóképesség fejlesztése a mindennapi életben is
                                             megjelenő mozgások használatával.</li>
-                                    </ul>
+									</ul>
+									<p class="service-txt">
+										<img src="<?php echo $pageUrl; ?>images/Funkcionalis_Koredzes.jpg" alt="Funkcionalis_Koredzes.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

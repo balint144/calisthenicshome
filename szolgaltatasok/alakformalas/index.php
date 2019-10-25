@@ -24,7 +24,7 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                            	<div class="service-txt">
 									<h2>Alakformálás</h2>
 									<ul class="list-unstyled list">
                                         <li>
@@ -33,7 +33,10 @@ include('../../head.php');
                                         <li>
                                             Különböző erősítő eszközök használatára, dinamikus gyakorlatokra, egyszerűen kivitelezhető és változatos feladatokra lehet számítani.
                                         </li>
-                                    </ul>
+									</ul>
+									<p class="service-txt">
+										<img style="width:400px;margin:auto" src="<?php echo $pageUrl; ?>images/Alakformalas.jpg" alt="Alakformalas.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

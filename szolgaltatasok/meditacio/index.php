@@ -24,7 +24,7 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                                <div class="service-txt">
 									<h2>Meditáció</h2>
 									<ul class="list-unstyled list">
                                         <li>Legfőbb célja a tapasztalati önismeret fejlesztése.</li>
@@ -52,6 +52,9 @@ include('../../head.php');
                                             elsajátítani, csak természetes módon teret adni magadban az esetlegesen
                                             újszerű tapasztalásnak.</li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img style="width:400px;margin:auto;" src="<?php echo $pageUrl; ?>images/Meditacio.jpg" alt="Meditacio.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

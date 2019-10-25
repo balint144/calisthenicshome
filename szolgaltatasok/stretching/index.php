@@ -24,7 +24,7 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                                <div class="service-txt">
 									<h2>Stretching</h2>
 									<ul class="list-unstyled list">
                                         <li>A
@@ -47,6 +47,9 @@ include('../../head.php');
                                             működésre, és nagyobb mozgásterjedelemben történő mozgásra lesz képes,
                                             mint a megrövidült merev izom.&nbsp;</li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img src="<?php echo $pageUrl; ?>images/Stretching.jpg" alt="Stretching.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

@@ -24,7 +24,7 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                                <div class="service-txt">
 									<h2>Cross training</h2>
 									<ul class="list-unstyled list">
                                         <li>A cross edzésmódszer alapja, hogy több rendszer elemeit ötvözi és integrálja magában, ezáltal egy olyan funkcionális rendszert hoz létre, mely kiválóan alkalmas a testforma és a kondicionális képességek harmonikus fejlesztésére.
@@ -55,6 +55,9 @@ include('../../head.php');
                                             venni.
                                         </li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img src="<?php echo $pageUrl; ?>images/Cross_Training_Spartan_Fighter.jpg" alt="Cross_Training_Spartan_Fighter.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

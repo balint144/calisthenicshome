@@ -50,6 +50,9 @@ include('../../head.php');
                                             <span><i class="fa fa-caret-right"></i>megelőzzük a fájdalmak kialakulását.</span><br>
                                         </li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img src="<?php echo $pageUrl; ?>images/Gerinctorna.jpg" alt="Gerinctorna.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

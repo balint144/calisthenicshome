@@ -24,7 +24,7 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                                <div class="service-txt">
 									<h2>Reaxing training</h2>
 									<ul class="list-unstyled list">
                                         <li>Újdonság

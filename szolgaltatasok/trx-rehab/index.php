@@ -32,7 +32,10 @@ include('../../head.php');
                                             kezelni.&nbsp;</li>
                                         <li>Az
                                             aktuális fizikai állapottól függően visszavezetünk az aktív sporttig.</li>
-                                    </ul>
+									</ul>
+									<p class="service-txt">
+										<img style="width:450px;margin:auto;" src="<?php echo $pageUrl; ?>images/Trx_rehab.jpg" alt="Trx_rehab.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

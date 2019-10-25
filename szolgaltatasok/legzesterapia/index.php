@@ -40,7 +40,10 @@ include('../../head.php');
                                         <li>Nincs
                                             még egy olyan „mozgásforma”, amely teljes körűen lazítaná és erősítené a
                                             testtartásunk alapját képező mélyizom-rendszert</li>
-                                    </ul>
+									</ul>
+									<p class="service-txt">
+										<img src="<?php echo $pageUrl; ?>images/Legzesterapia.jpg" alt="Legzesterapia.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

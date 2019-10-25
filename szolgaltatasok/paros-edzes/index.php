@@ -24,24 +24,29 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                            	<div class="service-txt">
 									<h2>Páros edzés</h2>
-									<ul class="list-unstyled list">
-                                        <li>Egy igazi élmény edzés pároknak, családtagoknak,
-                                            barátoknak. Kifejezetten páros gyakorlatokra számíthattok, egyéni
-                                            edzettségi szintetekhez igazítva.&nbsp;</li>
-                                        <li>Közös a bemelegítés, közösek az erősítő, állóképesség
-                                            fejlesztő gyakorlatok, közösek az acro jóga és nyújtás pozíciók. A
-                                            partnerednek Te adod az ellenállást, a támogatást, a könnyítést vagy épp a
-                                            nehezítés mértékét. Igazi csapatmunka folyik itt.</li>
-                                        <li>Lehet ez egy sportos randi program is, csábítsd el Te is
-                                            a párod.</li>
-                                        <li>Azonban a közös gyakorlatokat nemcsak az összeszokott
-                                            pároknak ajánljuk, hanem egy új, alakuló párkapcsolat esetén is. Ez a
-                                            program a testeteket és a köztetek lévő érzelmi köteléket is
-                                            megerősíti. Plusz a sportos program az egyik
-                                            leghasznosabb és legegészségesebb közös időtöltés, amit csak kitalálhattok.</li>
-                                    </ul>
+									<div class="col-md-8">
+										<ul class="list-unstyled list">
+											<li>Egy igazi élmény edzés pároknak, családtagoknak,
+												barátoknak. Kifejezetten páros gyakorlatokra számíthattok, egyéni
+												edzettségi szintetekhez igazítva.&nbsp;</li>
+											<li>Közös a bemelegítés, közösek az erősítő, állóképesség
+												fejlesztő gyakorlatok, közösek az acro jóga és nyújtás pozíciók. A
+												partnerednek Te adod az ellenállást, a támogatást, a könnyítést vagy épp a
+												nehezítés mértékét. Igazi csapatmunka folyik itt.</li>
+											<li>Lehet ez egy sportos randi program is, csábítsd el Te is
+												a párod.</li>
+											<li>Azonban a közös gyakorlatokat nemcsak az összeszokott
+												pároknak ajánljuk, hanem egy új, alakuló párkapcsolat esetén is. Ez a
+												program a testeteket és a köztetek lévő érzelmi köteléket is
+												megerősíti. Plusz a sportos program az egyik
+												leghasznosabb és legegészségesebb közös időtöltés, amit csak kitalálhattok.</li>
+										</ul>
+									</div>
+									<div class="col-md-4">
+										<img src="<?php echo $pageUrl; ?>images/Paros_edzes.jpg" alt="Paros_edzes.jpg" class="img-responsive">
+									</div>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

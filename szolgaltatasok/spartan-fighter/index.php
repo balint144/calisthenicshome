@@ -24,25 +24,30 @@ include('../../head.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
-                            <div class="service-txt">
+                            	<div class="service-txt">
 									<h2>Spartan Fighter</h2>
-									<ul class="list-unstyled list">
-                                        <li>Spartan
-                                            Fighter tudás és gyakorlatanyaga tökéletes kiegészítő és felkészítő
-                                            edzéstípus a Crossfitt és Crossfitt alapú edzésekhez, a terepfutások,
-                                            akadályfutások (Spartan Race, Brutál futás) szerelmeseinek, a küzdősportot
-                                            végző sportolóknak és azoknak, akik az igazi funkcionális edzéseket
-                                            szeretik és ezt egy magasabb szinten szeretnék űzni.</li>
-                                        <li>Ez
-                                            nem egy új fitness irányzat, hanem egy eredményorientált, erőnléti edzés-
-                                            koncepció!</li>
-                                        <li>Cél
-                                            az erő- állóképesség, robbanékonyság fejlesztése, ahol küzdősporti elemek
-                                            (boxzsák, ütő- rúgópárna) végrehajtásával is próbára teheted magad.</li>
-                                        <li>Jellemző
-                                            a változatos sportszerhasználat (girja, battle rope, miniband, agility
-                                            létra, illetve természetesen a saját testsúly).</li>
-                                    </ul>
+									<div class="col-md-8">
+										<ul class="list-unstyled list">
+											<li>Spartan
+												Fighter tudás és gyakorlatanyaga tökéletes kiegészítő és felkészítő
+												edzéstípus a Crossfitt és Crossfitt alapú edzésekhez, a terepfutások,
+												akadályfutások (Spartan Race, Brutál futás) szerelmeseinek, a küzdősportot
+												végző sportolóknak és azoknak, akik az igazi funkcionális edzéseket
+												szeretik és ezt egy magasabb szinten szeretnék űzni.</li>
+											<li>Ez
+												nem egy új fitness irányzat, hanem egy eredményorientált, erőnléti edzés-
+												koncepció!</li>
+											<li>Cél
+												az erő- állóképesség, robbanékonyság fejlesztése, ahol küzdősporti elemek
+												(boxzsák, ütő- rúgópárna) végrehajtásával is próbára teheted magad.</li>
+											<li>Jellemző
+												a változatos sportszerhasználat (girja, battle rope, miniband, agility
+												létra, illetve természetesen a saját testsúly).</li>
+										</ul>
+									</div>
+									<div class="col-md-4">
+										<img src="<?php echo $pageUrl; ?>images/Spartan_Fighter.jpg" alt="Spartan_Fighter.jpg" class="img-responsive">
+									</div>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>
