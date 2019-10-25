@@ -8483,16 +8483,8 @@ footer Styles / #footer
 		padding: 13px 0 0;
 	}
 
-	#header.fixed-position .nav-opener,
-	#header.fixed-position .opener-icons {
-		color: #fff;
-		border-color: #fff;
-	}
-
-	#header.fixed-position .nav-opener:hover,
-	#header.fixed-position .opener-icons:hover {
-		color: #666;
-		border-color: #666;
+	.w1 {
+		position: static !important;
 	}
 
 	#header.fixed-position.style2 {
@@ -8742,4 +8734,4 @@ footer Styles / #footer
 		margin-bottom: 30px;
 	}
 }
-
+
