@@ -2619,7 +2619,7 @@ body.dark.boxed-v #wrapper {
 }
 
 .contact-block .contact-map {
-	margin-bottom: 94px;
+	margin-bottom: 40px;
 }
 
 /*------------------------------------------------------------------
@@ -3856,6 +3856,7 @@ body.dark.boxed-v #wrapper {
 
 .faq-section .beans-slide {
 	padding: 20px;
+	font-size: 14px;;
 }
 
 .faq-section ol {
@@ -3867,9 +3868,15 @@ body.dark.boxed-v #wrapper {
 	margin: 0 0 5px;
 }
 
+.faq-section ul li {
+	font: 500 12px/20px "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;;
+}
+
 .faq-section p {
 	margin: 0 0 20px;
 	font: 500 12px/20px "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;;
 }
 
 .faq-section .holder h2 {

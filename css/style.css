@@ -12665,7 +12665,9 @@ p.service-txt {
 /*------------------------------------------------------------------
 19-2. onepage banner Styles / .onepage-banner
 -------------------------------------------------------------------*/
-
+.page-banner.grey {
+	background-image: url('../images/figure6.png');
+}
 .onepage-banner {
 	overflow: hidden;
 	position: relative;

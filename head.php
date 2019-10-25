@@ -47,7 +47,7 @@
 										<li><a href="features.html">Edzések</a></li>
 										<li><a href="blogs.html">Árak</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'faq' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>gyik">GYIK</a></li>
-										<li><a href="shortcodes.html">Kapcsolat</a></li>
+										<li class="<?php echo ($_GET['menu'] == 'contact' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>kapcsolat">Kapcsolat</a></li>
 									</ul>
 								</div>
 							</nav>

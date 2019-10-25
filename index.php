@@ -27,8 +27,8 @@ include('head.php');
 											<div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">
 												<h1>CALISTHENICS HOME</h1>
 												<p>Szeretnénk segíteni, hogy mihamarabb elérhesd egyéni céljaid, mi ebben fogunk Téged támogatni.</p>
-												<a href="#" class="btn btn-f-default">Tudj meg többet</a>
-												<a href="#" class="btn btn-f-info">Kapcsolat felvétel</a>
+												<a href="<?php echo $pageUrl; ?>szolgaltatasok" class="btn btn-f-default">Tudj meg többet</a>
+												<a href="<?php echo $pageUrl; ?>kapcsolat" class="btn btn-f-info">Kapcsolat felvétel</a>
 											</div>
 										</div>
 									</div>
