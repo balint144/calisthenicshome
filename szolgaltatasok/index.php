@@ -27,6 +27,17 @@ include('../head.php');
 								<p>Személyi edzővel edzeni biztonságosabb és szórakoztatóbb, mint egyedül; preventívebb és sokkal hatékonyabb fejlődést eredményez, mintha csoportos edzéseken vennél részt.</p>
 								<p>Mi biztosítjuk számodra a külső motivációt, a tanácsokat, a bátorítást és biztatást, melyek hatalmas lendületet adnak a rendszeres sportoláskor. Nemcsak segítik az edzéseidet, de hozzájárulnak, hogy minél hamarabb elérd a vágyott céljaidat, ami lehet akár állóképesség növelés, izomépítés, fogyókúra, életmódváltás, rehabilitáció vagy hogy minél hamarabb visszanyerd alakod a szülés után!</p>
 								<p>Minden embernek más edzésprogram a legmegfelelőbb. A kívánt cél és az adott fizikai állapot figyelembevételével állítjuk össze a személyre szabott edzéstervet, melyet az idő haladtával a fejlettségi szintedhez igazítunk. Mi az edzéseiden túl az egész életedre is hatással lehetünk: tanácsokat kaphatsz a tudatos, helyes életmód kialakításáról, az egészséges táplálkozásról, javaslatokat kaphatsz, hogy mit kellene változtatnod az életviteleddel kapcsolatban.</p>
+								<div style="margin-top:40px;" class="container-fluid">
+									<div class="row">
+										<div class="col-md-6">
+											<img  src="<?php echo $pageUrl; ?>images/DSC01291.jpg" alt="DSC01291.jpg" class="img-responsive">
+										</div>
+										<div class="col-md-6">
+											<img  src="<?php echo $pageUrl; ?>images/DSC01680.jpg" alt="DSC01680.jpg" class="img-responsive">
+										</div>
+									</div>
+								</div>
+								
 							</div>
                             <?php include('leftMenu.php') ?>
 						</div>
