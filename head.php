@@ -45,7 +45,7 @@
                                         <li><a href="portfolio.html">Edzők</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'services' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>szolgaltatasok">Szolgáltatások</a></li>
 										<li><a href="features.html">Edzések</a></li>
-										<li><a href="blogs.html">Árak</a></li>
+										<li class="<?php echo ($_GET['menu'] == 'prices' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>arak">Árak</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'faq' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>gyik">GYIK</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'contact' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>kapcsolat">Kapcsolat</a></li>
 									</ul>

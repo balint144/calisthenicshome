@@ -18731,3 +18731,43 @@ p.service-txt {
 	}
 }
 
+.prices-block h3 {
+	font: 25px/30px "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	line-height: 1.4;
+	font-weight: 600;
+	color: #222;
+	position: relative;
+	padding: 0 0 25px;
+	text-align: center;
+}
+.prices-block .item-title:after {
+	content:'';
+	position: absolute;
+	background: #0078ad;
+	bottom: 0;
+    left: 50%;
+    margin: 0 0 0 -40px;
+    width: 80px;
+    height: 4px;
+}
+.prices-block .item-cost ul{
+	margin-top:25px;
+	list-style: none;
+}
+.prices-block .item-cost ul li {
+	padding: 15px 0px 15px 25px;
+	font-size: 16px;
+	position: relative;
+}
+.prices-block .item-cost ul li:nth-child(odd) {
+	background-color: #f1f1f1;
+}
+.prices-block .item-cost ul li span {
+	font-weight: 600;
+    right: 25px;
+    position: absolute;
+}
+.prices-block .item-cost p {
+	margin:40px;
+}
