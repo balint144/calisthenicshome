@@ -214,7 +214,7 @@ include('head.php');
 							<!-- team box -->
 							<a href="#" class="team-box style2 right">
 								<div class="img-box">
-									<img src="<?php echo $pageUrl; ?>images/DSC07668_s.jpg" alt="Nóri" class="img-responsive">
+									<img src="<?php echo $pageUrl; ?>images/Nori_2.jpg" alt="Nóri" class="img-responsive">
                                     <span class="over"></span>
                                     <span class="plus lightbox">+</span>
                                 </div>
@@ -228,7 +228,7 @@ include('head.php');
 							<!-- team box -->
 							<a href="#" class="team-box style2">
 								<div class="img-box">
-									<img src="<?php echo $pageUrl; ?>images/Street_workout_Calistheics.jpg" alt="Zsolti" class="img-responsive">
+									<img src="<?php echo $pageUrl; ?>images/Zsolti.jpg" alt="Zsolti" class="img-responsive">
                                     <span class="over"></span>
                                     <span class="plus lightbox">+</span>
                                 </div>
