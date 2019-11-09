@@ -27,7 +27,7 @@ include('head.php');
 											<div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">
 												<h1>CALISTHENICS HOME</h1>
 												<p>Egy modern, minőségi személyi edző stúdió Budapest II. kerületében, ahol privát órákon, páros és kiscsoportos edzéseken várunk.</p>
-												<a href="<?php echo $pageUrl; ?>szolgaltatasok" class="btn btn-f-default">Tudj meg többet</a>
+												<a href="<?php echo $pageUrl; ?>edzesek" class="btn btn-f-default">Tudj meg többet</a>
 												<a href="<?php echo $pageUrl; ?>kapcsolat" class="btn btn-f-info">Kapcsolat felvétel</a>
 											</div>
 										</div>
@@ -119,7 +119,7 @@ include('head.php');
                             </div>
                         </div>
 						<div class="row text-center">
-							<a class="btn btn-dark view-more" href="<?php echo $pageUrl; ?>szolgaltatasok">Tovább</a>
+							<a class="btn btn-dark view-more" href="<?php echo $pageUrl; ?>edzesek">Tovább</a>
 						</div>
                         <!-- <div class="row padding-bottom-30">
                             <div class="col-xs-12 col-sm-3">
