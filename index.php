@@ -26,7 +26,7 @@ include('head.php');
 										<div class="row">
 											<div class="col-xs-12 col-sm-10 col-md-8 col-lg-6">
 												<h1>CALISTHENICS HOME</h1>
-												<p>Szeretnénk segíteni, hogy mihamarabb elérhesd egyéni céljaid, mi ebben fogunk Téged támogatni.</p>
+												<p>Egy modern, minőségi személyi edző stúdió Budapest II. kerületében, ahol privát órákon, páros és kiscsoportos edzéseken várunk.</p>
 												<a href="<?php echo $pageUrl; ?>szolgaltatasok" class="btn btn-f-default">Tudj meg többet</a>
 												<a href="<?php echo $pageUrl; ?>kapcsolat" class="btn btn-f-info">Kapcsolat felvétel</a>
 											</div>
@@ -50,7 +50,11 @@ include('head.php');
                     </header>
                     <!-- box -->
                     <div class="box">
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                        <p>	A Calisthenics Home Nádas Nóri és Szilágyi Zsolt személyi edző stúdiója Budapest csodálatos II. kerületében, Szemlőhegyen.<br>
+							Várunk privát órákon, páros személyi edzéseken és kiscsoportos edzéseken ahol a legjobb minőségre törekszünk szakmailag, szolgáltatásaink során, környezeteti feltételek és sportszerek tekintetében is.<br> 
+							Mindkettőnknek más az irányvonala, érdeklődése, így nagyon jól kiegészítjük egymást és a sok éves tapasztalatunknak, folyamatos továbbképzéseinknek köszönhetően nagyon sok területen tudunk segíteni a mozgás, életmód, fitness, egészségfejlesztés területén.<br>
+							Szeretettel várunk!
+						</p>
                     </div>
                     <img src="<?php echo $pageUrl; ?>images/DSC01695.png" alt="image description" class="img-responsive fadeInUp animated" data-animate="fadeInUp" data-delay="200">
                 </section>
@@ -58,7 +62,7 @@ include('head.php');
                     <!-- page heading -->
                     <header class="page-heading small">
                         <div class="heading">
-                            <h2 class="heading5 small-heading lime text-uppercase font-medium">SZOLGÁLTATÁSAINK</h2>
+                            <h2 class="heading5 small-heading lime text-uppercase font-medium">Edzések</h2>
                         </div>
                     </header>
                     <div class="container">
@@ -202,44 +206,7 @@ include('head.php');
 						</div> -->
 					</div>
                 </section>
-                <section class="container padding-bottom-90 padding-top-60">
-                    <!-- page heading small -->
-                    <header class="page-heading small">
-                        <div class="heading">
-                            <h2 class="heading5 small-heading lime text-uppercase font-medium">Edzők</h2>
-                        </div>
-                    </header>
-					<div class="row">
-						<div class="col-xs-12 col-sm-6">
-							<!-- team box -->
-							<a href="#" class="team-box style2 right">
-								<div class="img-box">
-									<img src="<?php echo $pageUrl; ?>images/Nori_2.jpg" alt="Nóri" class="img-responsive">
-                                    <span class="over"></span>
-                                    <span class="plus lightbox">+</span>
-                                </div>
-								<div class="block">
-									<h3 class="heading">Nóri</h3>
-									<p>Ha belegondolsz az egészség egy döntés, melyet minden napunk minden percében megteszünk azért, hogy testünket, lelkünket és szellemünket életadó táplálékkal tápláljuk.</p>
-								</div>
-                            </a>
-						</div>
-						<div class="col-xs-12 col-sm-6">
-							<!-- team box -->
-							<a href="#" class="team-box style2">
-								<div class="img-box">
-									<img src="<?php echo $pageUrl; ?>images/Zsolti.jpg" alt="Zsolti" class="img-responsive">
-                                    <span class="over"></span>
-                                    <span class="plus lightbox">+</span>
-                                </div>
-								<div class="block">
-									<h3 class="heading">Zsolti</h3>
-									<p>A Calisthenics avagy a saját testsúlyos edzés elhivatott képviselője vagyok. Edzéseim alapját a felfüggesztett eszközök (Trx, G-Flex) illetve Street Workout elemek alkotják.</p>
-								</div>
-                            </a>
-						</div>
-					</div>
-                </section>
+                <?php include('edzok/edzokBody.php') ?>
                 <!-- test section -->
 				<div class="testimon-section alt-version bg-grey">
 					<div class="container">

@@ -42,7 +42,7 @@
 								<div class="nav-holder">
 									<ul class="list-inline nav-top">
                                         <li class="<?php echo ($_GET['menu'] == 'home' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>">Főoldal</a></li>
-                                        <li><a href="portfolio.html">Edzők</a></li>
+                                        <li class="<?php echo ($_GET['menu'] == 'coaches' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>edzok">Edzők</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'services' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>szolgaltatasok">Szolgáltatások</a></li>
 										<li><a href="features.html">Edzések</a></li>
 										<li class="<?php echo ($_GET['menu'] == 'prices' ? 'active' : '') ?>"><a href="<?php echo $pageUrl; ?>arak">Árak</a></li>
