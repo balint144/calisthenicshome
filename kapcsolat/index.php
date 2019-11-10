@@ -26,7 +26,7 @@ include('../head.php');
                     <!-- contact map -->
 					<div class="row contact-map">
 						<div class="col-xs-12">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.106601086108!2d19.024220415627738!3d47.526787579179526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741d95279d95927%3A0xbb7b2bc84fc6f8a6!2sBudapest%2C%20Pusztaszeri%20%C3%BAt%2046%2C%201025!5e0!3m2!1shu!2shu!4v1572043551996!5m2!1shu!2shu" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.119194034518!2d19.02412461514979!3d47.52654240149889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741d9527ea66e05%3A0x9e7eb45a5c29a93a!2sBudapest%2C%20Pusztaszeri%20%C3%BAt%2046b%2C%201025!5e0!3m2!1shu!2shu!4v1573350642533!5m2!1shu!2shu" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                         </div>
                         <div class="col-xs-12">
                             <h3>Parkolás</h3>
