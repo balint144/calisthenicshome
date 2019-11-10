@@ -1,5 +1,6 @@
 <?php 
-$_GET['menu'] = 'services';
+$_GET['submenu'] = '';
+$_GET['menu'] = 'workouts';
 $_GET['title'] = 'Edzések';
 include('../config.php');
 include('../head.php');
