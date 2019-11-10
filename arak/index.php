@@ -41,8 +41,8 @@ include('../head.php');
                                     <li>12 alkalmas személyi edzés<span>6 500 Ft/alkalom</span></li>
                                     <li>6 alkalmas páros személyi edzés<span>4 000 Ft/fő/alkalom</span></li>
                                     <li>12 alkalmas páros személyi edzés<span>3 500 Ft/fő/alkalom</span></li>
-                                    <li>6 alkalmas kiscsoportos sz.e. (3fő)<span>3 500 Ft/fő/alkalom</span></li>
-                                    <li>12 alkalmas kiscsoportos sz.e. (3fő)<span>3 000 Ft/fő/alkalom</span></li>
+                                    <li>6 alkalmas kiscsoportos személyi edzés (3fő)<span>3 500 Ft/fő/alkalom</span></li>
+                                    <li>12 alkalmas kiscsoportos személyi edzés (3fő)<span>3 000 Ft/fő/alkalom</span></li>
                                 </ul>
                             </div>
                             <div class="item-cost">
@@ -61,8 +61,8 @@ include('../head.php');
                                     <li>12 alkalmas személyi edzés<span>5 500 Ft/alkalom</span></li>
                                     <li>6 alkalmas páros személyi edzés<span>3 500 Ft/fő/alkalom</span></li>
                                     <li>12 alkalmas páros személyi edzés<span>3 000 Ft/fő/alkalom</span></li>
-                                    <li>6 alkalmas kiscsoportos sz.e. (3fő)<span>3 000 Ft/fő/alkalom</span></li>
-                                    <li>12 alkalmas kiscsoportos sz.e. (3fő)<span>2 500 Ft/fő/alkalom</span></li>
+                                    <li>6 alkalmas kiscsoportos személyi edzés (3fő)<span>3 000 Ft/fő/alkalom</span></li>
+                                    <li>12 alkalmas kiscsoportos személyi edzés (3fő)<span>2 500 Ft/fő/alkalom</span></li>
                                 </ul>
                             </div>
                             <div class="item-cost">

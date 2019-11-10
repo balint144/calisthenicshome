@@ -53,9 +53,9 @@ include('../head.php');
 										</p>
 										<p>
 											Facebook<br>
-											Nóri <a href="https://www.facebook.com/fit.life.nori/" target="_blank">https://www.facebook.com/fit.life.nori/</a> <br>
+											Nóri <a href="https://www.facebook.com/nadas.nori/" target="_blank">https://www.facebook.com/nadas.nori/</a> <br>
 											Zsolt <a href="https://www.facebook.com/zsolt.szilagyi.399" target="_blank">https://www.facebook.com/zsolt.szilagyi.399</a><br>
-											Közös <a href="https://www.facebook.com/calisthenics.couple.hu/" target="_blank">https://www.facebook.com/calisthenics.couple.hu/</a>
+											Közös <a href="https://www.facebook.com/calisthenicshome/" target="_blank">https://www.facebook.com/calisthenicshome/</a>
 										</p>
 										<p>
 											Abban az esetben, ha nem tudjuk felvenni a telefont, valószínűleg dolgozunk.<br>

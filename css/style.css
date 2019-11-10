@@ -12372,7 +12372,7 @@ p.service-txt {
 }
 
 .about-app .box {
-	max-width: 770px;
+	max-width: 920px;
 	overflow: hidden;
 	text-align: center;
 	margin: 0 auto 81px;
@@ -18754,9 +18754,10 @@ p.service-txt {
 .prices-block .item-cost ul{
 	margin-top:25px;
 	list-style: none;
+	padding:0;
 }
 .prices-block .item-cost ul li {
-	padding: 15px 0px 15px 25px;
+	padding: 15px 180px 15px 25px;
 	font-size: 16px;
 	position: relative;
 }
@@ -18766,8 +18767,24 @@ p.service-txt {
 .prices-block .item-cost ul li span {
 	font-weight: 600;
     right: 25px;
-    position: absolute;
+	position: absolute;
+	top: calc(50% - 11px);
 }
 .prices-block .item-cost p {
 	margin:40px;
+}
+.home-services .team-box .block {
+	padding:15px;
+	display: flex;
+	align-items: center;
+	height: 80px;
+}
+.home-services .team-box .block h3 {
+	width: 100%;
+}
+.home-services a:hover, .home-services a:active, .home-services a:focus {
+	text-decoration: none;
+}
+.home-services .team-box .plus {
+	font-style: normal;
 }

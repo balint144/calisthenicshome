@@ -11,7 +11,7 @@ include('head.php');
                     </div>
                 </div>
             </div>
-			<!-- youga slider -->
+			<!-- header -->
 			<section class="youga-slider beans-slider" data-rotate="true">
 				<div class="beans-mask">
 					<div class="beans-slideset">
@@ -41,7 +41,8 @@ include('head.php');
 			</section>
 			<!-- contain main informative part of the site -->
 			<main id="main">
-                <section class="about-app padding-top-90 padding-bottom-90">
+				<!-- Rólunk start -->
+                <section class="about-app padding-top-90 padding-bottom-90 bg-grey">
                     <!-- page heading small -->
                     <header class="page-heading small">
                         <div class="heading">
@@ -58,6 +59,79 @@ include('head.php');
                     </div>
                     <img src="<?php echo $pageUrl; ?>images/DSC01695.png" alt="image description" class="img-responsive fadeInUp animated" data-animate="fadeInUp" data-delay="200">
                 </section>
+				<!-- Rólunk end -->
+				<!-- Szolgáltatások start -->
+                <section class="about-app padding-top-90 padding-bottom-90">
+                    <!-- page heading small -->
+                    <header class="page-heading small">
+                        <div class="heading">
+                            <h2 class="heading5 small-heading lime text-uppercase font-medium">Szolgáltatások</h2>
+                        </div>
+                    </header>
+                    <!-- box -->
+                    <div class="container home-services">
+						<div class="row">
+							<div class="col-xs-12 col-sm-6 col-md-3">
+								<a href="#popup1">
+									<div class="team-box">
+										<div class="img-box">
+											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<span class="over"></span>
+											<span class="plus lightbox">+</span>
+										</div>
+										<div class="block">
+											<h3 class="heading">Állapotfelmérés</h3>
+										</div>
+									</div>
+								</a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-3">
+								<a href="#popup1">
+									<div class="team-box">
+										<div class="img-box">
+											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<span class="over"></span>
+											<span class="plus lightbox">+</span>
+										</div>
+										<div class="block">
+											<h3 class="heading">Személyi edzés</h3>
+										</div>
+									</div>
+								</a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-3 clearfix-sm">
+								<a href="#popup1">
+									<div class="team-box">
+										<div class="img-box">
+											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<span class="over"></span>
+											<span class="plus lightbox">+</span>
+										</div>
+										<div class="block">
+											<h3 class="heading">Páros személyi edzés</h3>
+										</div>
+									</div>
+								</a>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-3">
+								<a href="#popup1">
+									<div class="team-box">
+										<div class="img-box">
+											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<span class="over"></span>
+											<span class="plus lightbox">+</span>
+										</div>
+										<div class="block">
+											<h3 class="heading">Kiscsoportos személyi edzés</h3>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </section>
+				<!-- Szolgáltatások end -->
+				<!-- Edzések start -->
                 <section class="about-section padding-top-60 padding-bottom-60 bg-grey">
                     <!-- page heading -->
                     <header class="page-heading small">
@@ -206,8 +280,11 @@ include('head.php');
 						</div> -->
 					</div>
                 </section>
+				<!-- Edzések end -->
+				<!-- Edzők start -->
                 <?php include('edzok/edzokBody.php') ?>
-                <!-- test section -->
+				<!-- Edzők end -->
+                <!-- test section start -->
 				<div class="testimon-section alt-version bg-grey">
 					<div class="container">
                         <!-- page heading -->
@@ -290,6 +367,7 @@ include('head.php');
 						</div>
 					</div>
 				</div>
+				<!-- test section end -->
 			</main>
 <?php
 include('footer.php');
