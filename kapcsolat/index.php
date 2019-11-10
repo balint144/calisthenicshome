@@ -61,7 +61,7 @@ include('../head.php');
 								</div>
 								<div class="contact-info">
 									<h3><i class="fa fa-road"></i>Cím</h3>
-									<address>Budapest, Pusztaszeri út 46, 1025</address>
+									<address>Budapest, Pusztaszeri út 46/B, 1025<br>Kapucsengő: 102</address>
 									<h3><i class="fa fa-phone"></i>Telefonszámok</h3>
 									<div class="tel-box">
 										<span class="tel">Nádas Nóra Piroska<a href="tel:+36305602411" class="tel">+36305602411</a></span>
@@ -72,9 +72,9 @@ include('../head.php');
                                     <a href="mailto:sz.zsolt.avf@gmail.com">sz.zsolt.avf@gmail.com</a><br>
                                     <a href="mailto:calisthenicscouplehu@gmail.com">calisthenicscouplehu@gmail.com</a>
                                     <h3 style="margin-top:10px;"><i class="fa fa-facebook"></i>Facebook</h3>
-                                    <a target="_blank" href="https://www.facebook.com/fit.life.nori"><span class="hidden-lg">https://www.facebook.com/</span>fit.life.nori</a><br>
+                                    <a target="_blank" href="https://www.facebook.com/nadas.nori"><span class="hidden-lg">https://www.facebook.com/</span>nadas.nori</a><br>
                                     <a target="_blank" href="https://www.facebook.com/zsolt.szilagyi.399"><span class="hidden-lg">https://www.facebook.com/</span>zsolt.szilagyi.399</a><br>
-                                    <a target="_blank" href="https://www.facebook.com/calisthenics.couple.hu"><span class="hidden-lg">https://www.facebook.com/</span>calisthenics.couple.hu</a>
+                                    <a target="_blank" href="https://www.facebook.com/calisthenicshome"><span class="hidden-lg">https://www.facebook.com/</span>calisthenicshome</a>
 								</div>
 							</div>
 						</div>
