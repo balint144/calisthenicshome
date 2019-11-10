@@ -18788,3 +18788,15 @@ p.service-txt {
 .home-services .team-box .plus {
 	font-style: normal;
 }
+.single-coach img {
+	margin-right: 10px;
+}
+.single-coach .team-lightbox {
+	width: auto;
+    border: 0;
+    padding: 0;
+    padding-top: 10px;
+}
+.team-lightbox p, .team-lightbox li {
+    font-size: 15px;
+}
