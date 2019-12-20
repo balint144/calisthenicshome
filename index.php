@@ -75,7 +75,7 @@ include('head.php');
 								<a href="#popup1">
 									<div class="team-box">
 										<div class="img-box">
-											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="Állapotfelmérés" class="img-responsive">
 											<span class="over"></span>
 											<span class="plus lightbox">+</span>
 										</div>
@@ -89,7 +89,7 @@ include('head.php');
 								<a href="#popup1">
 									<div class="team-box">
 										<div class="img-box">
-											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<img src="<?php echo $pageUrl; ?>images/szemelyi_edzes_s.jpg" alt="Személyi edzés" class="img-responsive">
 											<span class="over"></span>
 											<span class="plus lightbox">+</span>
 										</div>
@@ -103,7 +103,7 @@ include('head.php');
 								<a href="#popup1">
 									<div class="team-box">
 										<div class="img-box">
-											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<img src="<?php echo $pageUrl; ?>images/Paros_szemelyi_edzes_s.jpg" alt="Páros személyi edzés" class="img-responsive">
 											<span class="over"></span>
 											<span class="plus lightbox">+</span>
 										</div>
@@ -117,7 +117,7 @@ include('head.php');
 								<a href="#popup1">
 									<div class="team-box">
 										<div class="img-box">
-											<img src="<?php echo $pageUrl; ?>images/allapotfelmeres_s.jpg" alt="image description" class="img-responsive">
+											<img src="<?php echo $pageUrl; ?>images/kiscsoportos_edzes_s.jpg" alt="Kiscsoportos személyi edzés" class="img-responsive">
 											<span class="over"></span>
 											<span class="plus lightbox">+</span>
 										</div>

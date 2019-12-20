@@ -75,6 +75,125 @@ include('../head.php');
 									</div>
 								</li>
 								<li>
+									<h2><a href="#" class="opener"><i class="fa fa-angle-right"></i>Ha az állapotfelmérésen részt veszek, utána azonnal bérletet kell vennem?</a></h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Az állapotfelmérésen tapasztaltak alapján javaslatot teszünk számodra, hogyan tudunk segíteni, hogy a legrövidebb úton érhesd el a célod/céljaid. A döntés a tiéd lesz, hogy bérletet váltassz ki, vagy alkalmakat egyeztessünk, vagy egy teljesen egyéni koncepciót építsünk fel a közös munkához. :)
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Ha csak például Spártai edzésre szeretnék járni, akkor is állapotfelméréssel kell kezdenem? 
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Igen, hiszen tudnunk/látnunk kell milyen az aktuális állapotod.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Légzésterápiás órán csak légzéssel kapcsolatos problémák esetén vehetek részt?
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Nem. A légzésterápia többek közt felszabadítja a légzésben résztvevő izmokat, így segíti a helyes testtartás kialakítását, fokozza a sportteljesítményt, segít felszabadítani a tüdőt és kihasználni annak maximális kapacitását, harmonizálja az idegrendszeri és hormonális működést, a helyes légzés által több energiához, frissességhez juthatsz, amely hozzájárul a stresszmentesebb élet megvalósításához.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Mikor érdemes Funkcionális Mozgásminta Szűrésen részt vennem?
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Mindig. :)<br>
+											Komolyabban a szűrés alapvető eszköz a mozgásminták, kétoldali egyensúlyhiányok és aszimmetriák kiszűrésére. Segítségével ki lehet szűrni azokat a mozgásmintákat, amelyek hibásak, ezáltal sérüléshez vezethetnek.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Funkcionális Mozgásminta Szűrés vagy Állapotfelmérés?
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Őszintén mindkettőt javasoljuk.<br>
+											Állapotfelméréskor az anamnézist és a testösszetétel mérést követően a teljes testen tapasztalható elváltozásokat vizsgáljuk testtartás analízis, illetve komplex funkcionális tesztek segítségével.<br>
+											Funkcionális Mozgásminta Szűrésen a mozgásminták, kétoldali egyensúlyhiányok és aszimmetriák kiszűrésére kerül sor. Segítségével ki lehet szűrni azokat a mozgásmintákat, amelyek hibásak, ezáltal sérüléshez vezethetnek.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Ha kiscsoportos edzésre szeretnék járni, milyen időpontok vannak? 
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Nincs fix csoportos edzésünk.<br>
+											Kiscsoportos edzés esetén is úgy gondolkodj, mintha egyéni edzésre kérnél időpontot. Jöhetsz együtt barátaiddal, rokonaiddal, azaz Ti alakítjátok ki a 3 fős létszámot. De az is lehet hogy a már aktuális vendégeink mellé csatlakozol be, így válhatsz akár egy remek csapat tagjává. :) 
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Közösségi médiában megtalállak Titeket?  
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Igen, Facebookon és Instagramon is.<br>
+											Az oldal jobb felső sarkában található ikonokra kattinva át is navigál az oldal téged.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Mit hozzak magammal az edzésre?
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Törölközőt, váltóruhát, egy marék jókedvet. :)<br>
+											Cipőre nem lesz szükséged, vizet is, tisztálkodószereket is adunk szívesen.
+										</p>
+									</div>
+								</li>
+								<li>
+									<h2>
+										<a href="#" class="opener"><i class="fa fa-angle-right"></i>
+											Átöltözni, tisztálkodni tudok nálatok? 
+										</a>
+									</h2>
+									<!-- beans-slide -->
+									<div class="beans-slide">
+										<p>
+											Természetesen.
+										</p>
+									</div>
+								</li>
+								<li>
 									<h2><a href="#" class="opener"><i class="fa fa-angle-right"></i> Akadálymentesített?</a></h2>
 									<!-- beans-slide -->
 									<div class="beans-slide">
