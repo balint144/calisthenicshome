@@ -1183,6 +1183,9 @@ a.team-box.style2 h3 {
 	-webkit-transition: all .4s ease;
     transition: all .4s ease;
 }
+.services-row a:hover {
+	text-decoration: none;
+}
 
 /*------------------------------------------------------------------
 1-12. testimon section Styles / .testimon-section
