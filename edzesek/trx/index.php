@@ -26,27 +26,25 @@ include('../../head.php');
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
                             	<div class="service-txt">
 									<h2>Trx</h2>
-									<div class="col-md-7">
-										<ul class="list-unstyled list">
-											<li>Az
-												összes fittségi szinten kiaknázza a felfüggesztéses tréning előnyét.&nbsp;</li>
-											<li>A
-												több száz gyakorlat segítségével erősebb, rugalmasabb és fittebb lehetsz,
-												mint valaha, ráadásul a TRX legnagyobb előnyét is kiaknázhatod: szinte
-												minden gyakorlatnál aktiválod a core izmokat - “all the core all the
-												time“, amely nem csak a kockás has elérésében, hanem a mélyen fekvő
-												törzsizmok hatékony erősítésében is kulcsszerepet játszik.</li>
-											<li>Legyen
-												szó bármilyen sportról, vagy fitnesz célról, a TRX segít, hogy jobb legyél
-												abban, amit a legjobban szeretsz.</li>
-											<li>A
-												feladatokat mi adjuk a dőlésszöget Te választod, így tudod könnyíteni /
-												nehezíteni az adott kihívás mértékét!&nbsp;</li>
-										</ul>
-									</div>				
-									<div class="col-md-5">
-										<img src="<?php echo $pageUrl; ?>images/Trx.jpg" alt="Trx.jpg" class="img-responsive">
-									</div>
+									<ul class="list-unstyled list">
+										<li>Az
+											összes fittségi szinten kiaknázza a felfüggesztéses tréning előnyét.&nbsp;</li>
+										<li>A
+											több száz gyakorlat segítségével erősebb, rugalmasabb és fittebb lehetsz,
+											mint valaha, ráadásul a TRX legnagyobb előnyét is kiaknázhatod: szinte
+											minden gyakorlatnál aktiválod a core izmokat - “all the core all the
+											time“, amely nem csak a kockás has elérésében, hanem a mélyen fekvő
+											törzsizmok hatékony erősítésében is kulcsszerepet játszik.</li>
+										<li>Legyen
+											szó bármilyen sportról, vagy fitnesz célról, a TRX segít, hogy jobb legyél
+											abban, amit a legjobban szeretsz.</li>
+										<li>A
+											feladatokat mi adjuk a dőlésszöget Te választod, így tudod könnyíteni /
+											nehezíteni az adott kihívás mértékét!&nbsp;</li>
+									</ul>			
+									<p class="service-txt">
+										<img style="width:400px;margin:auto" src="<?php echo $pageUrl; ?>images/Trx.jpg" alt="Trx.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

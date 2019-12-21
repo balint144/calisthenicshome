@@ -86,6 +86,9 @@ include('../../head.php');
                                         <li>Kismama
                                             tornával eltöltött nappalok után könnyebbek lesznek majd az éjszakák is.</li>  
                                     </ul>
+                                    <p class="service-txt">
+                                        <img style="width:400px;margin:auto" src="<?php echo $pageUrl; ?>images/kismama_torna_r.jpg" alt="kismama_torna_r.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

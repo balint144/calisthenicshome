@@ -26,24 +26,22 @@ include('../../head.php');
 							<div class="col-xs-12 col-sm-8 col-md-9 col-sm-push-4 col-md-push-3">
                             	<div class="service-txt">
 									<h2>Stability Workout</h2>
-									<div class="col-md-8">
-										<ul class="list-unstyled list">
-											<li>A Stability Workout egy új koncepció, amiben az
-												alakformálás, erőfejlesztés ötvöződik olyan elemekkel, melyek erősítik a
-												törzs izmait is.&nbsp;</li>
-											<li>Speciális stabilitást fejlesztő eszközöket használunk,
-												többek közt a Stability Boardot, egy instabil deszkát.&nbsp;</li>
-											<li>Ajánljuk sportolóknak a jobb eredmény és sérülés mentesebb
-												felkészülés érdekében, az egyensúlyt igénylő sportágakat űzőknek, például:
-												wakeboard, snowboard, sí, surf, deszkás sportok, labdajátékok stb.&nbsp;</li>
-											<li>Ajánljuk azoknak, akik egészségtudatosan szeretnének
-												edzeni, és akik meg szeretnék előzni az oly sokakat érintő mozgásrendszeri
-												problémákat.</li>
-										</ul>
-									</div>
-									<div class="col-md-4">
-										<img src="<?php echo $pageUrl; ?>images/Reaxing_stability_funkcionalis.jpg" alt="Reaxing_stability_funkcionalis.jpg" class="img-responsive">
-									</div>
+									<ul class="list-unstyled list">
+										<li>A Stability Workout egy új koncepció, amiben az
+											alakformálás, erőfejlesztés ötvöződik olyan elemekkel, melyek erősítik a
+											törzs izmait is.&nbsp;</li>
+										<li>Speciális stabilitást fejlesztő eszközöket használunk,
+											többek közt a Stability Boardot, egy instabil deszkát.&nbsp;</li>
+										<li>Ajánljuk sportolóknak a jobb eredmény és sérülés mentesebb
+											felkészülés érdekében, az egyensúlyt igénylő sportágakat űzőknek, például:
+											wakeboard, snowboard, sí, surf, deszkás sportok, labdajátékok stb.&nbsp;</li>
+										<li>Ajánljuk azoknak, akik egészségtudatosan szeretnének
+											edzeni, és akik meg szeretnék előzni az oly sokakat érintő mozgásrendszeri
+											problémákat.</li>
+									</ul>
+									<p class="service-txt">
+										<img style="width:400px;margin:auto" src="<?php echo $pageUrl; ?>images/Reaxing_stability_funkcionalis.jpg" alt="Reaxing_stability_funkcionalis.jpg" class="img-responsive">
+									</p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>

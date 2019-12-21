@@ -45,8 +45,11 @@ include('../../head.php');
                                             javító gyakorlatok segítségével rehabilitálja az aránytalanságokat,
                                             megerősíti a gyenge láncszemeket.</li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img style="width:400px;margin:auto" src="<?php echo $pageUrl; ?>images/FMS_r.jpg" alt="FMS_r.jpg" class="img-responsive">
+                                    </p>
                                 </div>
-							</div>
+                            </div>
                             <?php include('../leftMenu.php') ?>
 						</div>
 					</div>

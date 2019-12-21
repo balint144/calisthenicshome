@@ -47,6 +47,9 @@ include('../../head.php');
                                             utáni rehabilitáció sikeressége, miközben alapvetően csökkenti a
                                             sérülések, újrasérülések kockázatát.</li>
                                     </ul>
+                                    <p class="service-txt">
+                                        <img style="margin:auto" src="<?php echo $pageUrl; ?>images/Reaxing_r.jpg" alt="Reaxing_r.jpg" class="img-responsive">
+                                    </p>
                                 </div>
 							</div>
                             <?php include('../leftMenu.php') ?>
