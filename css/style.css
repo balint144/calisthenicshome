@@ -1186,6 +1186,19 @@ a.team-box.style2 h3 {
 .services-row a:hover {
 	text-decoration: none;
 }
+.single-service .team-lightbox {
+	padding: 0;
+	margin:0;
+	border:0;
+	width: auto;
+	margin-top:12px;
+}
+
+@media (min-width: 992px) {
+	.single-service .team-lightbox {
+		margin-top:0px;
+	}
+}
 
 /*------------------------------------------------------------------
 1-12. testimon section Styles / .testimon-section

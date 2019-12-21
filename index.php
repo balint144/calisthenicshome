@@ -86,25 +86,25 @@ include('head.php');
 						<div class="row padding-bottom-30">
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/alakformalas" class="client-box large">
 									<span>Alakformálás</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/baba-mama-torna" class="client-box large">
 									<span>Baba-mama torna</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/baba-mama-papa-torna" class="client-box large">
 									<span>Baba-mama-papa torna</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/calisthenics-streetworkout" class="client-box large">
 									<span>Calisthenics/Streetworkout</span>
 								</a>
 							</div>
@@ -112,25 +112,25 @@ include('head.php');
 						<div class="row padding-bottom-30">
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/cross-training" class="client-box large">
 									<span>Cross training</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/fascia-smr-training" class="client-box large">
 									<span>Fascia / SMR training</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/flossing" class="client-box large">
 									<span>Flossing</span>
 								</a>
 							</div>
 							<div class="col-xs-12 col-sm-3">
 				                <!-- client box -->
-								<a href="#" class="client-box large">
+								<a href="<?php echo $pageUrl; ?>edzesek/fms" class="client-box large">
 									<span>FMS</span>
 								</a>
                             </div>
