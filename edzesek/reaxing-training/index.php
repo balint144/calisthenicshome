@@ -48,7 +48,7 @@ include('../../head.php');
                                             sérülések, újrasérülések kockázatát.</li>
                                     </ul>
                                     <p class="service-txt">
-                                        <img style="margin:auto" src="<?php echo $pageUrl; ?>images/Reaxing_r.jpg" alt="Reaxing_r.jpg" class="img-responsive">
+                                        <img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Reaxing_r.jpg" alt="Reaxing_r.jpg" class="img-responsive">
                                     </p>
                                 </div>
 							</div>

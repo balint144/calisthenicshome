@@ -59,7 +59,7 @@ include('../../head.php');
                                     </ul>
                                 </div>
                                 <p class="service-txt">
-                                    <img src="<?php echo $pageUrl; ?>images/Fascia_SMR_training.jpg" alt="Fascia SMR training.jpg" class="img-responsive">
+                                    <img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Fascia_SMR_training.jpg" alt="Fascia SMR training.jpg" class="img-responsive">
                                 </p>
 							</div>
                             <?php include('../leftMenu.php') ?>

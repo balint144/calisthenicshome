@@ -56,7 +56,7 @@ include('../../head.php');
                                         </li>
                                     </ul>
                                     <p class="service-txt">
-                                        <img src="<?php echo $pageUrl; ?>images/Cross_Training_Spartan_Fighter.jpg" alt="Cross_Training_Spartan_Fighter.jpg" class="img-responsive">
+                                        <img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Cross_Training_Spartan_Fighter.jpg" alt="Cross_Training_Spartan_Fighter.jpg" class="img-responsive">
                                     </p>
                                 </div>
 							</div>

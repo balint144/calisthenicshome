@@ -42,7 +42,7 @@ include('../../head.php');
                                             testtartásunk alapját képező mélyizom-rendszert</li>
 									</ul>
 									<p class="service-txt">
-										<img src="<?php echo $pageUrl; ?>images/Legzesterapia.jpg" alt="Legzesterapia.jpg" class="img-responsive">
+										<img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Legzesterapia.jpg" alt="Legzesterapia.jpg" class="img-responsive">
 									</p>
                                 </div>
 							</div>

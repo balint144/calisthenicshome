@@ -49,7 +49,7 @@ include('../../head.php');
                                             céljaid függvényében.&nbsp;</li>
                                     </ul>
                                     <p class="service-txt">
-                                        <img style="margin:auto" src="<?php echo $pageUrl; ?>images/polar_pulzus_kontrollalt_edzes_r.jpg" alt="polar_pulzus_kontrollalt_edzes_r.jpg" class="img-responsive">
+                                        <img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/polar_pulzus_kontrollalt_edzes_r.jpg" alt="polar_pulzus_kontrollalt_edzes_r.jpg" class="img-responsive">
                                     </p>
                                 </div>
 							</div>

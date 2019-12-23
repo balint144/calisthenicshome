@@ -48,7 +48,7 @@ include('../../head.php');
                                             mint a megrövidült merev izom.&nbsp;</li>
                                     </ul>
                                     <p class="service-txt">
-                                        <img src="<?php echo $pageUrl; ?>images/Stretching.jpg" alt="Stretching.jpg" class="img-responsive">
+                                        <img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Stretching.jpg" alt="Stretching.jpg" class="img-responsive">
                                     </p>
                                 </div>
 							</div>

@@ -35,7 +35,7 @@ include('../../head.php');
 										</li>
 									</ul>			
 									<p class="service-txt">
-										<img src="<?php echo $pageUrl; ?>images/Street_workout_Calistheics_e.jpg" alt="Street_workout_Calistheics_e.jpg" class="img-responsive">
+										<img style="width:500px;margin:auto" src="<?php echo $pageUrl; ?>images/Street_workout_Calistheics_e.jpg" alt="Street_workout_Calistheics_e.jpg" class="img-responsive">
 									</p>
                                 </div>
 							</div>
