@@ -52,7 +52,7 @@ include('head.php');
                     <!-- box -->
                     <div class="box">
                         <p>	A Calisthenics Home Nádas Nóri és Szilágyi Zsolt személyi edző stúdiója Budapest csodálatos II. kerületében, Szemlőhegyen.<br>
-							Várunk privát órákon, páros személyi edzéseken és kiscsoportos edzéseken ahol a legjobb minőségre törekszünk szakmailag, szolgáltatásaink során, környezeteti feltételek és sportszerek tekintetében is.<br> 
+							Várunk privát órákon, páros személyi edzéseken és kiscsoportos edzéseken ahol a legjobb minőségre törekszünk szakmailag, szolgáltatásaink során, környezeti feltételek és sportszerek tekintetében is.<br> 
 							Mindkettőnknek más az irányvonala, érdeklődése, így nagyon jól kiegészítjük egymást és a sok éves tapasztalatunknak, folyamatos továbbképzéseinknek köszönhetően nagyon sok területen tudunk segíteni a mozgás, életmód, fitness, egészségfejlesztés területén.<br>
 							Szeretettel várunk!
 						</p>

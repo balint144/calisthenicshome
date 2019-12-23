@@ -48,7 +48,7 @@ include('../../head.php');
                                     Végzettségek:
                                 </p>
                                 <ul>
-                                    <li>Functional Movement System level 1.,2. - 360 Akadémia (folyamatban)</li>
+                                    <li>Functional Movement System level 1.,2. - 360 Akadémia</li>
                                     <li>Reaxing Premier Workshop - R-med Akadémia</li>
                                     <li>Spartan Fighter Oktató - IWI</li>
                                     <li>Stability Workout Instruktor - Fitness Akadémia</li>

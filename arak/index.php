@@ -33,11 +33,11 @@ include('../head.php');
                                     <li>Páros személyi edzés<span>5 000 Ft/fő/alkalom</span></li>
                                     <li>Kiscsoportos személyi edzés (3fő)<span>4 500 Ft/fő/alkalom</span></li>
                                     <li>Funkcionális Mozgásminta Szűrés (FMS)<span>8 000 Ft/fő/alkalom</span></li>
-                                    <li>Konzultáció az egészséges életmód kialakításáról 60 perc<span>10 000 Ft/fő/alkalom</span></li>
-                                    <li>Meditáció 40 perc<span>9 500 Ft/fő/alkalom</span></li>
-                                    <li>Flosstréning 40 perc<span>9 500 Ft/fő/alkalom</span></li>
-                                    <li>Relaxáció 40 perc<span>9 500 Ft/fő/alkalom</span></li>
-                                    <li>Légzésterápia 40 perc<span>9 500 Ft/fő/alkalom</span></li>
+                                    <li>Konzultáció az egészséges életmód kialakításáról<span>10 000 Ft/fő/alkalom</span></li>
+                                    <li>Meditáció<span>9 500 Ft/fő/alkalom</span></li>
+                                    <li>Flosstréning<span>9 500 Ft/fő/alkalom</span></li>
+                                    <li>Relaxáció<span>9 500 Ft/fő/alkalom</span></li>
+                                    <li>Légzésterápia<span>9 500 Ft/fő/alkalom</span></li>
                                 </ul>
                             </div>
                             <div class="item-cost">

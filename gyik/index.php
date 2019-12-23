@@ -26,8 +26,8 @@ include('../head.php');
 				<div class="container padding-bottom-100 faq-section padding-top-100">
                     <!-- page heading -->
                     <header class="page-heading">
-                        <h2 class="heading2 lime font-medium margin-bottom-30">Néhány gyakrani kérdés</h2>
-                        <p>Megválaszolunk néhány gyakori kérdést. Ha ezeken kívül bármilyen egyéb kérdés felfelmerül, szíven válaszulonk minden kérdésre a Kapcsolatok menüpont alatti eléhetőségeinken.</p>
+                        <h2 class="heading2 lime font-medium margin-bottom-30">Néhány gyakori kérdés</h2>
+                        <p>Megválaszolunk néhány gyakori kérdést. Ha ezeken kívül bármilyen egyéb kérdés felmerül, szívesen válaszolunk minden kérdésre a Kapcsolatok menüpont alatti eléhetőségeinken.</p>
                     </header>
 					<div class="row holder">
 						<div class="col-xs-12">

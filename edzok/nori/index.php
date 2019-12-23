@@ -63,7 +63,8 @@ include('../../head.php');
                                     <li>Aerobik sportedző - IWI</li>
                                     <li>Rekreációszervező és Egészségfejlesztő - ELTE PPK (BSc)</li>
                                     <li>Rekreáció irányító, rehabilitációs tréner - SE TSK (MSc)</li>
-                                    <li>Fitnesz, Wellness és Spa Menedzser - IWI</li>
+									<li>Fitnesz, Wellness és Spa Menedzser - IWI</li>
+									<li>Meditációs alaptanfolyam - Szanszkrit Akadémia</li>
                                 </ul>
                             </div>
                         </div>
