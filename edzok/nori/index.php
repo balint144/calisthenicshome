@@ -57,8 +57,8 @@ include('../../head.php');
                                     <li>Kriston Intim Torna Nőknek Alap tréning</li>
                                     <li>Funkcionális Fascia Tréning - Balance Medical Fitness Akadémia</li>
                                     <li>Funkcionális vizsgálat avagy "up to date" gyors tesztek a mindennapokra - TheraBand Academy®</li>
-                                    <li>TRX Sports Medicine Suspension Training Course - R-med Akadémia</li>
                                     <li>BLACKROLL Tréner - FitCollege</li>
+									<li>TRX Sports Medicine Suspension Training Course - R-med Akadémia</li>
                                     <li>Preventív Gerinc és Stretching Tréner - IWI</li>
                                     <li>Aerobik sportedző - IWI</li>
                                     <li>Rekreációszervező és Egészségfejlesztő - ELTE PPK (BSc)</li>
